@@ -47,6 +47,8 @@ HOW TO PLAY/
     • do the setup
     • go to <YOUR.IP.ADRESS:PORT>
 
+![BIRD!](illustrations/img1.png)
+
 TODO/
 
     • Better collide function
