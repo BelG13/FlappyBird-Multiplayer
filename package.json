@@ -1,0 +1,21 @@
+{
+  "name": "flappymulti",
+  "version": "0.0.1",
+  "description": "socket.io flappy bird",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "keywords": [
+    "socket",
+    "flappybird",
+    "node"
+  ],
+  "author": "belval giovanni",
+  "license": "ISC"
+}
