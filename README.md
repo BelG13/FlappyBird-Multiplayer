@@ -4,6 +4,7 @@ CREATOR : BELVAL GIOVANNI
 
 
 INTRODUCTION/
+
     this project is about to create the flappy bird game avalaible in 
     multiplayer.
 
@@ -13,6 +14,7 @@ INTRODUCTION/
 
 
 SETUP/
+
     • install node using the nodeLink
     • create a node server that will render our <public> folder.
     • check the depedencies in packages.json and install them on your computer.
@@ -41,10 +43,9 @@ CODE EXPLANATION/
     each time we draw a pipe , we compute wether a bird touches the pipe or not.
 
 HOW TO PLAY/
+
     • do the setup
     • go to <YOUR.IP.ADRESS:PORT>
-
-    ![](illustrations/img1.png)
 
 TODO/
 
