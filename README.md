@@ -29,6 +29,9 @@ SETUP/
         - ADRESS (the adress you want to use | I use my wifi adress)
         - ORIGIN : http://{ADRESS}:{PORT}
 
+
+    • in your sketch.js file , line 32 , you hate to write your [adress]:[port]
+
     • start the server with <node server.js>
 
     
